@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F2D6E26-F63B-48BE-B5FE-1959AEC19596}</ProjectGuid>
+    <ProjectGuid>{3E137412-C145-461E-BCAA-04FEFE2514BC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SistemaEscolar2</RootNamespace>
-    <AssemblyName>SistemaEscolar2</AssemblyName>
+    <RootNamespace>SistemaEscolar3</RootNamespace>
+    <AssemblyName>SistemaEscolar3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
