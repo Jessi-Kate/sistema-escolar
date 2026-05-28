@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SistemaEscolar.Properties
+namespace SistemaEscolar2.Properties
 {
 
 
