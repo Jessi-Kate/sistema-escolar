@@ -21,5 +21,10 @@ namespace SistemaEscolar3
         {
             MessageBox.Show("Es la pantalla principal");
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
